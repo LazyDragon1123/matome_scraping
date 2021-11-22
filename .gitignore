@@ -1,1 +1,5 @@
 cfg/*
+*.ipynb
+*.mypy_cache
+.DS_Store
+db/*
